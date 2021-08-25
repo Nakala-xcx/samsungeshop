@@ -1,0 +1,37 @@
+{
+  "id": "2665458",
+  "name": "samsung",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6441802",
+      "name": "电话",
+      "font_class": "huaban",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "6792841",
+      "name": "jiantou_youshang",
+      "font_class": "jiantou_youshang",
+      "unicode": "e7f4",
+      "unicode_decimal": 59380
+    },
+    {
+      "icon_id": "11564175",
+      "name": "方向-右",
+      "font_class": "Group",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "12743373",
+      "name": "search bold",
+      "font_class": "searchbold",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    }
+  ]
+}
